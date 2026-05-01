@@ -1,0 +1,32 @@
+{
+  "user_preferences": {
+    "wake_up_time": "08:00",
+    "sleep_time": "23:30",
+    "max_focus_minutes": 90,
+    "break_minutes": 15
+  },
+  "fixed_blocks": [
+    {
+      "day": "Monday",
+      "start": "10:00",
+      "end": "12:00",
+      "title": "Group Meeting",
+      "type": "meeting"
+    }
+  ],
+  "learning_interests": {
+    "core_topics": [
+      "Machine Learning",
+      "Agentic Workflow",
+      "System Design"
+    ],
+    "search_keywords": [
+      "LLM Agent architecture",
+      "RAG practical tutorial"
+    ],
+    "preferred_formats": [
+      "video",
+      "article"
+    ]
+  }
+}

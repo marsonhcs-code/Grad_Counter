@@ -1,0 +1,34 @@
+{
+  "search_strategy": "balanced",
+  "platforms": {
+    "youtube": {
+      "enabled": true,
+      "weight": 8,
+      "content_types": [
+        "video",
+        "course"
+      ],
+      "max_results_per_query": 3,
+      "duration_preference": "medium"
+    },
+    "google_scholar": {
+      "enabled": true,
+      "weight": 9,
+      "content_types": [
+        "paper",
+        "article"
+      ],
+      "max_results_per_query": 2,
+      "min_citation_count": 50
+    },
+    "github": {
+      "enabled": true,
+      "weight": 7,
+      "content_types": [
+        "repository",
+        "tutorial"
+      ],
+      "max_results_per_query": 2
+    }
+  }
+}

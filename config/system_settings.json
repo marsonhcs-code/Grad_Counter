@@ -1,0 +1,17 @@
+{
+  "environment": {
+    "version": "1.0.0",
+    "timezone": "Asia/Taipei",
+    "language": "zh-TW"
+  },
+  "paths": {
+    "memory_dir": "./memory/",
+    "reports_dir": "./reports/",
+    "logs_dir": "./logs/"
+  },
+  "agent_limits": {
+    "max_tasks_per_day": 10,
+    "default_focus_block_minutes": 60,
+    "max_reschedules_per_task": 3
+  }
+}

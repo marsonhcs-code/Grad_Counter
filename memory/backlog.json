@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "T-001",
+      "title": "Homework: Data Structures Assignment 3",
+      "type": "homework",
+      "deadline": "2026-05-10T23:59:00",
+      "estimated_hours": 3,
+      "status": "pending",
+      "priority": "high"
+    }
+  ],
+  "learning_materials": [
+    {
+      "id": "L-001",
+      "title": "Stanford CS25: VLM",
+      "type": "video",
+      "url": "https://youtube.com/",
+      "topic": "Machine Learning",
+      "estimated_minutes": 120,
+      "status": "not_started",
+      "source": "agent_search_recommendation"
+    }
+  ]
+}
