@@ -1,13 +1,17 @@
 {
   "logs": [
     {
-      "date": "2026-05-02",
-      "completed_items": [],
-      "incomplete_items": [],
-      "rescheduled_items": [],
-      "notes": "",
-      "mood_score": 3,
-      "focus_score": 3
+      "date": "2026-05-01",
+      "metrics": {
+        "tasks_planned": 3,
+        "tasks_completed": 2,
+        "completion_rate": 0.66
+      },
+      "user_feedback": "下午有點精神不濟，影片沒看完。",
+      "agent_reflection": "使用者下午兩點後專注力下降。明天起，將影片或高耗能任務移至上午，下午安排實作或較輕鬆的文章。",
+      "rescheduled_items": [
+        "L-001"
+      ]
     }
   ]
 }

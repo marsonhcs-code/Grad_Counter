@@ -1,25 +1,42 @@
 {
-  "tasks": [
+  "homework_and_tasks": [
     {
       "id": "T-001",
-      "title": "Homework: Data Structures Assignment 3",
-      "type": "homework",
-      "deadline": "2026-05-10T23:59:00",
-      "estimated_hours": 3,
+      "title": "資料結構作業三",
+      "deadline": "2026-05-15T23:59:00",
+      "estimated_hours": 4,
       "status": "pending",
-      "priority": "high"
+      "priority": "high",
+      "source": "user_input",
+      "attachments": [
+        "resources/courses/Data_Structure/hw3_spec.pdf",
+        "resources/courses/Data_Structure/hw3_template.zip"
+      ]
     }
   ],
   "learning_materials": [
     {
       "id": "L-001",
-      "title": "Stanford CS25: VLM",
+      "title": "Andrew Ng: Agentic Design Patterns",
+      "url": "https://youtu.be/",
       "type": "video",
-      "url": "https://youtube.com/",
+      "estimated_minutes": 45,
+      "topic": "Agentic Workflow",
+      "status": "pending",
+      "source": "agent_search",
+      "attachments": []
+    },
+    {
+      "id": "L-002",
+      "title": "講義複習：Gradient Descent",
+      "type": "document",
+      "estimated_minutes": 60,
       "topic": "Machine Learning",
-      "estimated_minutes": 120,
-      "status": "not_started",
-      "source": "agent_search_recommendation"
+      "status": "pending",
+      "source": "user_input",
+      "attachments": [
+        "resources/courses/Machine_Learning/week_02_gradient_descent.pdf"
+      ]
     }
   ]
 }

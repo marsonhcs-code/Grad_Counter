@@ -1,20 +1,14 @@
 {
   "2026-05-02": {
-    "date_summary": "Focus on homework progress and ML concept review",
+    "daily_focus": "Complete highest-priority pending items",
     "events": [
       {
-        "time": "09:00-12:00",
-        "title": "Deep Learning Class",
-        "type": "fixed",
-        "is_completed": false
-      },
-      {
-        "time": "13:30-15:00",
-        "title": "Read: Agentic Workflow Article",
+        "time": "09:00-10:30",
+        "title": "資料結構作業三",
         "type": "dynamic",
-        "linked_id": "L-001",
+        "linked_id": "T-001",
         "is_completed": false,
-        "agent_note": "Initial seeded block for dynamic scheduling."
+        "agent_note": "Auto-planned by scheduler."
       }
     ]
   }
